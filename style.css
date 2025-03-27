@@ -55,8 +55,19 @@ body{
     display: inline-block;
 }
 .noti1{
-    width: 800px;
-    height: 400px;
-    margin-top: 8px;
+    width: 650px;
+    height: 350px;
+    margin-top: 6px;
     margin-left: 17px;
+    vertical-align: top;
+}
+.noti2{
+    width: 900px;
+    height: 600px;
+    margin-top: 6px; 
+}
+.noti3{
+    width: 320px;
+    height: 170px;
+    vertical-align: tops;
 }

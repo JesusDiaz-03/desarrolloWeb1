@@ -78,3 +78,39 @@ body{
 .flex{
     display: flex;
 }
+.section2{
+    width: 280px;
+    height: 340px;
+    margin: 50px;
+}
+.margenizq{
+    margin-left: 200px;
+}
+.subtitulo{
+    margin-left: 65px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.margenizq2{
+    margin-left: 40px;
+}
+.section3{
+    width: 300px;
+    height: 160px;
+    margin: 25px;
+}
+.imgiante3{
+    height: 400px;
+    width: 1600px;
+    margin-top: 10px;
+    margin-bottom: 170px;
+}
+.imgrot{
+    width: 1595px;
+    margin-bottom: 50px;
+}
+.imgfot{
+    width: 1595px;
+    margin-top: 15px;
+}
+
